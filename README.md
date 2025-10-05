@@ -17,7 +17,7 @@ Built as a 3rd semester project to practice **Data Structures & Algorithms (DSA)
 ---
 
 ## ⚙️ Technologies Used
-- **C++** (core logic & implementation)
+- **C** (core logic & implementation)
 - **BST (Binary Search Tree)** for efficient movie storage & retrieval
 
 ---
