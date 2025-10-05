@@ -1,6 +1,6 @@
 # 🎬 BST Movie Recommendation System
 
-A simple **C++ project** that implements a **Movie Recommendation System** using **Binary Search Tree (BST)**.  
+A simple **C project** that implements a **Movie Recommendation System** using **Binary Search Tree (BST)**.  
 Built as a 3rd semester project to practice **Data Structures & Algorithms (DSA)** concepts.
 
 ---
